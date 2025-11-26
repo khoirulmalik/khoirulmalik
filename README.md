@@ -56,3 +56,8 @@ I am a passionate Software Engineer with proven experience in **Full-Stack Web E
 ![Khoirul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khoirulmalik&theme=radical)
 
 </div>
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/khoirulmalik/count.svg" alt="Visitor's Count" />
+</div>
